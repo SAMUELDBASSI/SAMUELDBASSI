@@ -7,11 +7,11 @@
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Machine Learning</b>
-  - [Predicting-Heart-Defect-using-Linear-regression](https://github.com/SAMUELDBASSI/Predicting-Heart-Defect-using-Linear-regression))
-  - [Financial-Fraud-Prediction-Using-machine-learning-algorithm](https://github.com/SAMUELDBASSI/Financial-Fraud-Prediction-Using-machine-learning-algorithm))
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
+  - [Predicting-Heart-Defect-using-Linear-regression](https://github.com/SAMUELDBASSI/Predicting-Heart-Defect-using-Linear-regression)
+  - [Financial-Fraud-Prediction-Using-machine-learning-algorithm](https://github.com/SAMUELDBASSI/Financial-Fraud-Prediction-Using-machine-learning-algorithm)
+  - [loan-Prediction-Using-SVM-](https://github.com/SAMUELDBASSI/loan-Prediction-Using-SVM-)
+  
+- <b>Data Visualization (Dashboard)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
