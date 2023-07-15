@@ -4,8 +4,7 @@
 
 - <b>Data Analysis Using Python (E.D.A) </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+
 - <b>Machine Learning</b>
   - [Predicting-Heart-Defect-using-Linear-regression](https://github.com/SAMUELDBASSI/Predicting-Heart-Defect-using-Linear-regression)
   - [Financial-Fraud-Prediction-Using-machine-learning-algorithm](https://github.com/SAMUELDBASSI/Financial-Fraud-Prediction-Using-machine-learning-algorithm)
