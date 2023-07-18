@@ -22,7 +22,8 @@
 <h2>👨‍💻Certifications</h2>  
 
  - [Data Analytics using Python Programming](https://linkedin.com/posts/bassi-s-388a41211_acetel-0122-activity-7084933103089008640-lI3r?utm_source=share&utm_medium=member_desktop)
- 
+
+ - [Jobberman Soft Skills Course](https://coursera.org/verify/2FHQGFB7XD2C)
 <h2> 🤳 Connect with me:</h2>
 
 
